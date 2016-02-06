@@ -1,0 +1,14 @@
+layout_spectrum: 0.8446808
+color:
+  saturation: 0.7270912
+  lightness: 0.7765898
+  brandStrength: 0.7851064
+  brandColors:
+    - '#FEFEFE'
+    - '#932A33'
+    - '#201E1F'
+    - '#880002'
+    - '#D9D8D8'
+  rhythmicContrast: 0.5386822
+typography_spectrum: 0.4872341
+name: Netson
